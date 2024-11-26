@@ -8,7 +8,7 @@ env:
 
 jobs:
   build:
-    name: Build and Test blah
+    name: Build and Test
     runs-on: ubuntu-22.04
     permissions:
       contents: read
